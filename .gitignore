@@ -1,0 +1,5 @@
+/deeplearning/log
+/deeplearning/model_cache
+/deeplearning/raw_data
+/deeplearning/results
+/deeplearning/analysis.ipynb
